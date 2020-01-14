@@ -1,0 +1,20 @@
+@media only screen and (min-width: 600px) {
+    .search {
+        text-align: center;
+        padding: 100px;
+    }
+}
+@media only screen and (min-width: 768px) {
+    .search {
+        text-align: center;
+        padding: 100px;
+    }
+}
+
+
+@media only screen and (min-width: 992px) {
+    .search {
+        text-align: center;
+        padding: 100px;
+    }
+}
